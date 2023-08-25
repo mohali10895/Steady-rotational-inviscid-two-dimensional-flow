@@ -2,8 +2,9 @@
 ## Problem
 ![1](https://github.com/mohali10895/Steady-rotational-inviscid-two-dimensional-flow/assets/88863004/3f5fa796-a0e8-4865-bf5a-52b8cf70f219)
 ## Some Results
-### Short Inlet Duct
+### Mesh Generation
 ![2](https://github.com/mohali10895/Steady-rotational-inviscid-two-dimensional-flow/assets/88863004/ceedcf27-8dff-4eef-9315-f454ff4f7a96)
+### Short Inlet Duct
 ![3](https://github.com/mohali10895/Steady-rotational-inviscid-two-dimensional-flow/assets/88863004/e722d23f-8b87-49a6-8768-c357075256c0)
 ![4](https://github.com/mohali10895/Steady-rotational-inviscid-two-dimensional-flow/assets/88863004/0f4544ae-716b-46fa-b5d1-541267070690)
 ![5](https://github.com/mohali10895/Steady-rotational-inviscid-two-dimensional-flow/assets/88863004/c2f5d948-ecab-4d98-9d58-094d66241885)
